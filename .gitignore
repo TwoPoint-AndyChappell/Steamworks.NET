@@ -1,5 +1,6 @@
 bin/
 obj/
 .vs/
+.vscode/
 __pycache__/
 /CodeGen/steam/lib/
