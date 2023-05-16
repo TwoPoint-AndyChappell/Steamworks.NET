@@ -1,3 +1,3 @@
 [submodule "CodeGen/SteamworksParser"]
 	path = CodeGen/SteamworksParser
-	url = https://github.com/rlabrecque/SteamworksParser.git
+	url = git@git.assembla.com:TwoPointStudios/TPS.SteamworksParser.git
