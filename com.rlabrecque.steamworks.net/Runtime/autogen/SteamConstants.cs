@@ -91,6 +91,7 @@ namespace Steamworks {
 		public const int k_ScreenshotThumbWidth = 200;
 		public const int kNumUGCResultsPerPage = 50;
 		public const int k_cchDeveloperMetadataMax = 5000;
+		public const int k_nCubTicketMaxLength = 2560;
 		// size limit on stat or achievement name (UTF-8 encoded)
 		public const int k_cchStatNameMax = 128;
 		// maximum number of bytes for a leaderboard name (UTF-8 encoded)

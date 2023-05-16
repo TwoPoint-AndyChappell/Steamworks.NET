@@ -2608,7 +2608,6 @@ namespace Steamworks {
 		public HAuthTicket m_hAuthTicket;
 		public EResult m_eResult;
 		public int m_cubTicket;
-		public static const int k_nCubTicketMaxLength = 2560;
 		[MarshalAs(UnmanagedType.ByValArray, SizeConst = Constants.k_nCubTicketMaxLength)]
 		public byte[] m_rgubTicket;
 	}
